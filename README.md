@@ -2,7 +2,7 @@
 
 Telegram Shell Bot written in Go.
 
-![alt text](http://www.giphy.com/gifs/QNWcboPyGgHCSFOhjV)
+![alt text](https://media.giphy.com/media/QNWcboPyGgHCSFOhjV/giphy.gif)
 
 The bot streams your input from Telegram chat and provides a real time output.
 
