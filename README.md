@@ -19,7 +19,11 @@ TBD;
 ## TODO
 
 [X] Implement command execution
+
 [ ] Add Instaliong/Configuration instructions to README.md
+
 [ ] Implement graphical formating of output
+
 [ ] Implement refreshing formating (htop, watch)
+
 [ ] Push to docker hub as container + automated deployment to Heroku
